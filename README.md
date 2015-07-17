@@ -6,9 +6,9 @@ Consult the rtf file for the links..
 PLese clone the repo, pull any changes, add your own resource links, push it and pull to get the updates.. 
 
 For cloning: 
-...
+'''
 git clone https://github.com/dattasaurabh82/IxD_coffee_time_share_outs-.git
-...
+'''
 
 After you update the file with ore links: 
 ...
